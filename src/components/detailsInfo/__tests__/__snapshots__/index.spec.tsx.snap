@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DetailsInfo test suite Default snapshot test 1`] = `
+<View
+  style={
+    Object {
+      "display": "flex",
+      "flexDirection": "row",
+      "marginVertical": 2,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#8c8c8c",
+        "flex": 1,
+        "fontSize": 12,
+        "fontWeight": "bold",
+      }
+    }
+  >
+    dummyTitle
+  </Text>
+  <Text
+    style={
+      Object {
+        "color": "#8c8c8c",
+        "flex": 1,
+        "fontSize": 12,
+      }
+    }
+  >
+    dummyOverview
+  </Text>
+</View>
+`;

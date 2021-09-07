@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1631057429762" clover="3.2.0">
+  <project timestamp="1631057429762" name="All files">
+    <metrics statements="83" coveredstatements="83" conditionals="26" coveredconditionals="26" methods="28" coveredmethods="28" elements="137" coveredelements="137" complexity="0" loc="83" ncloc="83" packages="12" files="20" classes="20"/>
+    <package name="components.details">
+      <metrics statements="2" coveredstatements="2" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/fabiogaspar/Documents/Mindera/Outros/Compass/MoviesApp/src/components/details/index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="10" type="stmt"/>
+      </file>
+      <file name="styles.ts" path="/Users/fabiogaspar/Documents/Mindera/Outros/Compass/MoviesApp/src/components/details/styles.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="components.detailsInfo">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/fabiogaspar/Documents/Mindera/Outros/Compass/MoviesApp/src/components/detailsInfo/index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="44" type="stmt"/>
+      </file>
+      <file name="styles.ts" path="/Users/fabiogaspar/Documents/Mindera/Outros/Compass/MoviesApp/src/components/detailsInfo/styles.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="components.searchBar">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/fabiogaspar/Documents/Mindera/Outros/Compass/MoviesApp/src/components/searchBar/index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="9" type="stmt"/>
+      </file>
+      <file name="styles.ts" path="/Users/fabiogaspar/Documents/Mindera/Outros/Compass/MoviesApp/src/components/searchBar/styles.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="components.searchList">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <file name="index.tsx" path="/Users/fabiogaspar/Documents/Mindera/Outros/Compass/MoviesApp/src/components/searchList/index.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="12" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="26" count="80" type="stmt"/>
+        <line num="28" count="80" type="stmt"/>
+      </file>
+      <file name="styles.ts" path="/Users/fabiogaspar/Documents/Mindera/Outros/Compass/MoviesApp/src/components/searchList/styles.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="components.searchListItem">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="index.tsx" path="/Users/fabiogaspar/Documents/Mindera/Outros/Compass/MoviesApp/src/components/searchListItem/index.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="83" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="19" count="83" type="stmt"/>
+      </file>
+      <file name="styles.ts" path="/Users/fabiogaspar/Documents/Mindera/Outros/Compass/MoviesApp/src/components/searchListItem/styles.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="libraries">
+      <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="movieDb.ts" path="/Users/fabiogaspar/Documents/Mindera/Outros/Compass/MoviesApp/src/libraries/movieDb.ts">
+        <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="mocks">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="movieDB.mock.ts" path="/Users/fabiogaspar/Documents/Mindera/Outros/Compass/MoviesApp/src/mocks/movieDB.mock.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="9" type="stmt"/>
+        <line num="89" count="9" type="stmt"/>
+        <line num="104" count="9" type="stmt"/>
+        <line num="345" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="screens">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="styles.ts" path="/Users/fabiogaspar/Documents/Mindera/Outros/Compass/MoviesApp/src/screens/styles.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="screens.details">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="index.tsx" path="/Users/fabiogaspar/Documents/Mindera/Outros/Compass/MoviesApp/src/screens/details/index.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="screens.search">
+      <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="index.tsx" path="/Users/fabiogaspar/Documents/Mindera/Outros/Compass/MoviesApp/src/screens/search/index.tsx">
+        <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+        <line num="17" count="7" type="stmt"/>
+        <line num="19" count="7" type="stmt"/>
+        <line num="23" count="7" type="stmt"/>
+        <line num="28" count="7" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="37" count="7" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="45" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="store">
+      <metrics statements="13" coveredstatements="13" conditionals="5" coveredconditionals="5" methods="4" coveredmethods="4"/>
+      <file name="actions.ts" path="/Users/fabiogaspar/Documents/Mindera/Outros/Compass/MoviesApp/src/store/actions.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+      </file>
+      <file name="reducers.ts" path="/Users/fabiogaspar/Documents/Mindera/Outros/Compass/MoviesApp/src/store/reducers.ts">
+        <metrics statements="10" coveredstatements="10" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="13" count="14" type="stmt"/>
+        <line num="14" count="14" type="cond" truecount="4" falsecount="0"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="31" count="11" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="22" coveredstatements="22" conditionals="9" coveredconditionals="9" methods="7" coveredmethods="7"/>
+      <file name="formatter.ts" path="/Users/fabiogaspar/Documents/Mindera/Outros/Compass/MoviesApp/src/utils/formatter.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="14" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="31" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+      </file>
+      <file name="requester.ts" path="/Users/fabiogaspar/Documents/Mindera/Outros/Compass/MoviesApp/src/utils/requester.ts">
+        <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="24" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="41" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+      </file>
+      <file name="testUtils.tsx" path="/Users/fabiogaspar/Documents/Mindera/Outros/Compass/MoviesApp/src/utils/testUtils.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="14" count="10" type="stmt"/>
+        <line num="15" count="10" type="stmt"/>
+        <line num="17" count="10" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

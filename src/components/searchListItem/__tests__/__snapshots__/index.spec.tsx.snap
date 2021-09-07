@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchListItem test suite Default snapshot test 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#2b2b3b",
+      "borderRadius": 10,
+      "display": "flex",
+      "marginHorizontal": 15,
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "uri": "https://image.tmdb.org/t/p/w400/hbn46fQaRmlpBuUrEiFqv0GDL6Y.jpg",
+      }
+    }
+    style={
+      Object {
+        "borderTopLeftRadius": 10,
+        "borderTopRightRadius": 10,
+        "height": 200,
+        "width": 360,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "padding": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#e6e6ff",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "marginBottom": 5,
+        }
+      }
+    >
+      The Avengers
+    </Text>
+    <Text
+      numberOfLines={3}
+      style={
+        Object {
+          "color": "#8c8c8c",
+          "fontSize": 12,
+        }
+      }
+    >
+      When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!
+    </Text>
+  </View>
+</View>
+`;

@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchBar test suite Default snapshot test 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#000033",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#212145",
+        "borderRadius": 5,
+        "display": "flex",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginHorizontal": 15,
+        "marginVertical": 10,
+        "padding": 10,
+      }
+    }
+  >
+    <TextInput
+      onChangeText={[MockFunction]}
+      placeholder="Search..."
+      placeholderTextColor="white"
+      style={
+        Object {
+          "backgroundColor": "#212145",
+          "color": "white",
+          "flex": 1,
+          "padding": 0,
+        }
+      }
+      value="dummyQuery"
+    />
+    <Image
+      source={
+        Object {
+          "uri": "https://img.icons8.com/ios-glyphs/30/000000/search--v2.png",
+        }
+      }
+      style={
+        Object {
+          "height": 25,
+          "marginLeft": 5,
+          "tintColor": "white",
+          "width": 25,
+        }
+      }
+    />
+  </View>
+</View>
+`;

@@ -1,0 +1,281 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Details test suite Default snapshot test 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#000033",
+      "display": "flex",
+      "flex": 1,
+    }
+  }
+>
+  <Image
+    resizeMode="contain"
+    source={
+      Object {
+        "uri": "https://image.tmdb.org/t/p/w200null",
+      }
+    }
+    style={
+      Object {
+        "alignSelf": "center",
+        "height": 300,
+        "marginBottom": 10,
+        "width": 200,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "padding": 15,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "white",
+            "flex": 1,
+            "fontSize": 14,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Fight Club
+      </Text>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "row",
+          }
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "https://img.icons8.com/fluency/48/000000/star.png",
+            }
+          }
+          style={
+            Object {
+              "height": 15,
+              "marginRight": 5,
+              "width": 15,
+            }
+          }
+        />
+        <Text
+          style={
+            Object {
+              "color": "white",
+            }
+          }
+        >
+          7.8
+          /10
+        </Text>
+      </View>
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#8c8c8c",
+          "fontSize": 12,
+          "marginTop": 10,
+        }
+      }
+    >
+      A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground "fight clubs" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.
+    </Text>
+    <View
+      style={
+        Object {
+          "borderTopColor": "#8c8c8c",
+          "borderTopWidth": 1,
+          "flex": 1,
+          "marginVertical": 10,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "display": "flex",
+          "flexDirection": "row",
+          "marginVertical": 2,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#8c8c8c",
+            "flex": 1,
+            "fontSize": 12,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Status:
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#8c8c8c",
+            "flex": 1,
+            "fontSize": 12,
+          }
+        }
+      >
+        Released
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "display": "flex",
+          "flexDirection": "row",
+          "marginVertical": 2,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#8c8c8c",
+            "flex": 1,
+            "fontSize": 12,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Release Date:
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#8c8c8c",
+            "flex": 1,
+            "fontSize": 12,
+          }
+        }
+      >
+        1999-10-12
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "display": "flex",
+          "flexDirection": "row",
+          "marginVertical": 2,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#8c8c8c",
+            "flex": 1,
+            "fontSize": 12,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Duration:
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#8c8c8c",
+            "flex": 1,
+            "fontSize": 12,
+          }
+        }
+      >
+        2h 19m
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "display": "flex",
+          "flexDirection": "row",
+          "marginVertical": 2,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#8c8c8c",
+            "flex": 1,
+            "fontSize": 12,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Genre:
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#8c8c8c",
+            "flex": 1,
+            "fontSize": 12,
+          }
+        }
+      >
+        Drama
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "display": "flex",
+          "flexDirection": "row",
+          "marginVertical": 2,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#8c8c8c",
+            "flex": 1,
+            "fontSize": 12,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Budget:
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#8c8c8c",
+            "flex": 1,
+            "fontSize": 12,
+          }
+        }
+      >
+        $63,000,000.00
+      </Text>
+    </View>
+  </View>
+</View>
+`;

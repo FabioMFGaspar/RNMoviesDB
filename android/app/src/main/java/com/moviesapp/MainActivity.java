@@ -14,7 +14,7 @@ public class MainActivity extends ReactActivity {
     return "MoviesApp";
   }
 
-  // Needed for React Navigation
+  // React navigation config
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(null);
